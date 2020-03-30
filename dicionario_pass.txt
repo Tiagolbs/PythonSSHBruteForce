@@ -1,0 +1,7 @@
+admin
+123456
+root
+password
+toor
+654321
+1301
